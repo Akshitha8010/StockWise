@@ -30,7 +30,7 @@ const Header = ({ showNav = true }) => {
           className="flex gap-3 items-center text-2xl font-semibold text-gray-300"
         >
           <img
-            src="./src/assets/stockwise.png"
+            src="./stockwise.png"
             alt="StockWise logo"
             height={32}
             width={140}
@@ -52,3 +52,4 @@ const Header = ({ showNav = true }) => {
 };
 
 export default Header;
+
